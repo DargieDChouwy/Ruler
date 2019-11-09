@@ -1,0 +1,2 @@
+C:\Users\Mawie\Documents\Ruler\Intermediate\Build\Win64\UE4Editor\Development\PrototypeSurvivalCpp\Definitions.PrototypeSurvivalCpp.h
+C:\Users\Mawie\Documents\Ruler\Source\PrototypeSurvivalCpp\MyClass.h

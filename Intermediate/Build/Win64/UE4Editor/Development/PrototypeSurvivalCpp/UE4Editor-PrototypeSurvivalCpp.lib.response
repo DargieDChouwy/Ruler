@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PrototypeSurvivalCpp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Mawie\Documents\Ruler\Intermediate\Build\Win64\PrototypeSurvivalCppEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Mawie\Documents\Ruler\Intermediate\Build\Win64\UE4Editor\Development\PrototypeSurvivalCpp\MyClass.cpp.obj"
+"C:\Users\Mawie\Documents\Ruler\Intermediate\Build\Win64\UE4Editor\Development\PrototypeSurvivalCpp\PrototypeSurvivalCpp.cpp.obj"
+"C:\Users\Mawie\Documents\Ruler\Intermediate\Build\Win64\UE4Editor\Development\PrototypeSurvivalCpp\Default.rc2.res"
+/OUT:"C:\Users\Mawie\Documents\Ruler\Intermediate\Build\Win64\UE4Editor\Development\PrototypeSurvivalCpp\UE4Editor-PrototypeSurvivalCpp.lib"
+/INCLUDE:IMPLEMENT_MODULE_PrototypeSurvivalCpp
